@@ -25,7 +25,7 @@
 - Gatekeeper must be disable
 
 
-### Download V ➤ [Kext-Install.zip](https://github.com/chris1111/Kext-Install/releases/tag/V1)
+### Download V1 ➤ [Kext-Install.zip](https://github.com/chris1111/Kext-Install/releases/tag/V1)
 
 - View full Video ⬇︎
 
