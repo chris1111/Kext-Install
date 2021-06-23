@@ -1,7 +1,7 @@
 # Kext-Install
 
 <p align="center">
-  <img width="200" height="200" src="">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/6248794/123019499-98654800-d39e-11eb-9aa9-b42683a1017d.png">
 </p>
 
 ### Working for macOS Monterey 12 and Mac OS Big Sur 11
@@ -29,5 +29,5 @@
 
 - View full Video ⬇︎
 
-![Modular Image Creation](https://user-images.githubusercontent.com/6248794/118173318-6a820080-b3fb-11eb-9ba5-203165fb6f26.png)](https://youtu.be/tzTpXCxZpyU)
+[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/118173318-6a820080-b3fb-11eb-9ba5-203165fb6f26.png)](https://youtu.be/tzTpXCxZpyU)
  
