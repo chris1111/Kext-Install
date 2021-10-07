@@ -8,6 +8,7 @@ display dialog "Welcome Kext Install
 Kext Install is an utility that allows you to install your kexts
 in / System / Library / Extensions 
 Kext, bundle and plugin files are allow. No backup of the original files is made.
+Only Apple kexts can be accepted to be loaded.
 
 Working for Big Sur and Monterey
 " with icon note
