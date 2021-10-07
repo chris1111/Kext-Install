@@ -13,7 +13,7 @@
 - Kext, bundle and plugin files are allow. No backup of the original files is made.
 - Only Apple kexts can be accepted to be loaded.
 
-### Other kexts files Install in /Library/Extensions ➤ use [Kext-Droplet](https://github.com/chris1111/Kext-Droplet-Big-Sur)
+### Other third party kexts files Install in /Library/Extensions ➤ use [Kext-Droplet](https://github.com/chris1111/Kext-Droplet-Big-Sur)
 
 
 ### Credit: chris1111 for build the app
