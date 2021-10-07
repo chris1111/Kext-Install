@@ -11,7 +11,7 @@
 - Kext Install is an utility that allows you to install your kexts in 
 - / System / Library / Extensions 
 - Kext, bundle and plugin files are allow. No backup of the original files is made.
-- Only Apple kexts works
+- Only Apple kexts can be accepted to be loaded.
 
 ### Other kexts files Install in /Library/Extensions ➤ use [Kext-Droplet](https://github.com/chris1111/Kext-Droplet-Big-Sur)
 
