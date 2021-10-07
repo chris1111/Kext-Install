@@ -1,5 +1,6 @@
 # Kext-Install
-- Update 23 June 2021 Add all Disk number in the list
+- Update 07 Oct 2021 Update readme and release
+- Only Apple kexts works
 
 <p align="center">
   <img width="200" height="200" src="https://user-images.githubusercontent.com/6248794/123019499-98654800-d39e-11eb-9aa9-b42683a1017d.png">
@@ -10,8 +11,7 @@
 - Kext Install is an utility that allows you to install your kexts in 
 - / System / Library / Extensions 
 - Kext, bundle and plugin files are allow. No backup of the original files is made.
-
-
+- Only Apple kexts works
 
 
 ### Credit: chris1111 for build the app
