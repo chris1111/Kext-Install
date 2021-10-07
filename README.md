@@ -17,7 +17,7 @@
 
 
 ### Credit: chris1111 for build the app
-### Credit: Base on [Jacklude](https://github.com/jacklukem) work
+### Credit: Base on [Jackluke](https://github.com/jacklukem) work
 ### Credit: [Script Debuger](https://latenightsw.com) 
 
 - Warning: this package replaces system files and could render your system unbootable.
