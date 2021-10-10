@@ -3,7 +3,7 @@
 - Only Apple kexts works
 
 <p align="center">
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/6248794/123019499-98654800-d39e-11eb-9aa9-b42683a1017d.png">
+  <img width="200" height="200" src="https://user-images.githubusercontent.com/6248794/136709606-d88b39cb-b204-469f-9d64-8c30f94c4641.png">
 </p>
 
 ### Working for macOS Monterey 12 and Mac OS Big Sur 11
