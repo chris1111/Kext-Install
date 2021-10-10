@@ -11,6 +11,9 @@ sudo chown -R root:wheel /System/Volumes/Update/mnt1/System/Library/Extensions
 sudo chmod -R 755 /System/Volumes/Update/mnt1/System/Library/Extensions
 sudo kmutil install --volume-root /System/Volumes/Update/mnt1/ --update-all
 sudo bless --folder /System/Volumes/Update/mnt1/System/Library/CoreServices --bootefi --create-snapshot
+Sleep 1
+diskutil unmount /System/Volumes/Update/mnt1
+
 
 echo "Done"
 
