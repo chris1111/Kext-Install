@@ -7,6 +7,7 @@
 </p>
 
 ### Working for macOS Monterey 12 and Mac OS Big Sur 11
+- For Real Mac and Hackintosh
 
 
 
