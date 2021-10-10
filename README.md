@@ -1,5 +1,5 @@
 # Kext-Install
-- Update 07 Oct 2021 Update readme and release
+- Update 10 Oct 2021 Update readme and release
 - Only Apple kexts works
 
 <p align="center">
