@@ -36,6 +36,8 @@
 ### Clover:
 - Usage Clover csrutil authenticated-root disable (csr-active-config ➤ 0x867
 
+- View Check Status ➤ [authenticated-root](https://user-images.githubusercontent.com/6248794/136710985-f3ab5298-5bcf-441a-8f97-34b61ab54f45.png) Download ➤ [Check Status]()
+
 
 ### Download V1 ➤ [Kext-Install.zip](https://github.com/chris1111/Kext-Install/releases/tag/V1)
 
